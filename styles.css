@@ -1,0 +1,10 @@
+
+body {
+    background-color: rgb(114, 138, 95);
+}
+a:visited{
+    color:whitesmoke;
+}
+a:active{
+    color:purple
+}
